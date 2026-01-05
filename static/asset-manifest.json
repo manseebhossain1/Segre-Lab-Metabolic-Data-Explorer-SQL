@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/students_25/bsandi/Segre-Lab-Metabolic-Data-Explorer/app/static/css/main.e6c13ad2.css",
+    "main.js": "/students_25/bsandi/Segre-Lab-Metabolic-Data-Explorer/app/static/js/main.56ed340e.js",
+    "static/js/453.8ab44547.chunk.js": "/students_25/bsandi/Segre-Lab-Metabolic-Data-Explorer/app/static/js/453.8ab44547.chunk.js",
+    "index.html": "/students_25/bsandi/Segre-Lab-Metabolic-Data-Explorer/app/index.html",
+    "main.e6c13ad2.css.map": "/students_25/bsandi/Segre-Lab-Metabolic-Data-Explorer/app/static/css/main.e6c13ad2.css.map",
+    "main.56ed340e.js.map": "/students_25/bsandi/Segre-Lab-Metabolic-Data-Explorer/app/static/js/main.56ed340e.js.map",
+    "453.8ab44547.chunk.js.map": "/students_25/bsandi/Segre-Lab-Metabolic-Data-Explorer/app/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.56ed340e.js"
+  ]
+}
