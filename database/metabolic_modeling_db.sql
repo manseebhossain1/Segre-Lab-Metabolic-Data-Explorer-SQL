@@ -69,4 +69,5 @@ CREATE TABLE model (
 ) ENGINE=InnoDB;
 
 -- Create index on species_id in model table
+
 CREATE INDEX idx_model_species_id ON model (species_id);
